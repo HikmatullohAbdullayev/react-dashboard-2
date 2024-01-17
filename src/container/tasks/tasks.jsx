@@ -3,7 +3,6 @@ import React from 'react';
 
 function Tasks(props) {
     return (
-<<<<<<< HEAD
         <div className="tasks">
             <div className="tasks_top">
                 <div className="tasks_info">
@@ -31,10 +30,6 @@ function Tasks(props) {
                 </li>
             </ul>
 
-=======
-        <div>
-            task
->>>>>>> 4044a82b45085b300f594c14cb94568f39d971d2
         </div>
     );
 }
