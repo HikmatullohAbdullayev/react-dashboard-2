@@ -1,21 +1,8 @@
-/* .box {
-  position: relative;
+
+
+.flex{
+  
   display: flex;
   justify-content: space-between;
-  align-items: stretch;
+  align-items:center;
 }
-.box1 {
-  width: 400px;
-  height: 100vh;
-  position: sticky;
-  top: 10px;
-  background-color:blueviolet;
-  overflow: scroll;
-}
-.box2 {
-  position: sticky;
-width: 1240px;
-height: auto;
-background-color:aqua;
-overflow: scroll;
-} */
