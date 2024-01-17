@@ -1,0 +1,50 @@
+.cards {
+    
+  
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: auto;
+    flex-wrap: wrap;
+    text-align: center;
+
+}
+.card {
+    background-color: rgb(255, 255, 255);
+    width: 258px;
+    height: 130px;
+    border-radius: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: center;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
+.card:hover {
+    border: 1px solid  #3751FF;
+    color:#3751FF;
+}
+.card:hover .card_title{
+    color:#3751FF;
+}
+.card:hover .card_title+.card_number{
+    color:#3751FF;
+}
+.card_title {
+    padding-top: 24px;
+    padding-left:32px ;
+    padding-right:32px ;
+    padding-right: 8px;
+    color:  #9FA2B4;
+text-align: center;
+font-size: 19px;
+font-weight: 700;
+letter-spacing: 0.4px;
+}
+.card_number {
+    padding: 0 32px 24px 32px;
+    color:  #252733;
+text-align: center;
+font-size: 40px;
+font-weight: 700;
+letter-spacing: 1px;
+}
