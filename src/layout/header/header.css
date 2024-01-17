@@ -5,8 +5,7 @@
     justify-content: space-between;
     align-items: center;
 }
-.container {
-}
+
 .Title {
     color:  #252733;
 font-size: 24px;
@@ -19,8 +18,7 @@ letter-spacing: 0.3px;
     justify-content: space-between;
     align-items: center;
 }
-.box {
-}
+
 .box__icons {
     display: flex;
     gap: 24px;

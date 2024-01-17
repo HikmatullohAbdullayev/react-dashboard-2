@@ -9,7 +9,7 @@ function Header(props) {
    <>
     <header className='header container'>
                     <h1 className='Title'>Tickets</h1>
-                    <div className="header__box box">
+                    <div className="header__box box_h">
                         <div className="box__icons">
                             <button className='header__icon'><SearchIcon/> </button>
                             <button className='header__icon'><NotificationIcon/> </button>
