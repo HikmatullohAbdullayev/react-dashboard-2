@@ -18,8 +18,8 @@ function Main(props) {
             <Box/>
            </div>
             <div className="task_box">
-                <Tickets/>
                 <Tasks/>
+                <Tickets/>
                 </div>            
         </div>
     );

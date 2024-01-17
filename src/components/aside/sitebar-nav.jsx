@@ -24,7 +24,7 @@ function SidebarNav() {
             </span>
             <button className="item">Overview</button>
           </li>
-          <li className="list_item  tickets">
+          <li className="list_item  ">
             <span>
               <TicketsIcon />
             </span>

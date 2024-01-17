@@ -24,9 +24,9 @@ function Tasks(props) {
                     <h3 className="tasks_name">Awaiting Developer Fix</h3>
                     <p className="tasks_number">914</p>
                 </li>
-                <li className="tasks_item">
+                <li className="tasks_item none">
                     <h3 className="tasks_name">Pending</h3>
-                    <p className="tasks_number">281</p>
+                    <p className="tasks_number ">281</p>
                 </li>
             </ul>
 

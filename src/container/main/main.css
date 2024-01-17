@@ -1,10 +1,10 @@
 .main_box {
-<<<<<<< HEAD
-    position: relative;
-=======
->>>>>>> 4044a82b45085b300f594c14cb94568f39d971d2
+
 }
 .card_flex {
 }
 .task_box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
